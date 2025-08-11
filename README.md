@@ -1,1 +1,2 @@
-# ITCS102_1B
+# justin deodores
+bsit 1b
